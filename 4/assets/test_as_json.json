@@ -1,0 +1,267 @@
+{
+    "value": 42,
+    "children": [
+        {
+            "value": 0,
+            "children": [
+                {
+                    "value": 0,
+                    "children": [
+                        {
+                            "value": 0,
+                            "children": [
+                                "None",
+                                {
+                                    "value": 1,
+                                    "children": [
+                                        {
+                                            "value": 0,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        },
+                                        "None"
+                                    ],
+                                    "followers": 1
+                                }
+                            ],
+                            "followers": 1
+                        },
+                        {
+                            "value": 1,
+                            "children": [
+                                {
+                                    "value": 0,
+                                    "children": [
+                                        {
+                                            "value": 0,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        },
+                                        "None"
+                                    ],
+                                    "followers": 1
+                                },
+                                {
+                                    "value": 1,
+                                    "children": [
+                                        "None",
+                                        {
+                                            "value": 1,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        }
+                                    ],
+                                    "followers": 1
+                                }
+                            ],
+                            "followers": 2
+                        }
+                    ],
+                    "followers": 3
+                },
+                {
+                    "value": 1,
+                    "children": [
+                        {
+                            "value": 0,
+                            "children": [
+                                "None",
+                                {
+                                    "value": 1,
+                                    "children": [
+                                        {
+                                            "value": 0,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        },
+                                        "None"
+                                    ],
+                                    "followers": 1
+                                }
+                            ],
+                            "followers": 1
+                        },
+                        {
+                            "value": 1,
+                            "children": [
+                                "None",
+                                {
+                                    "value": 1,
+                                    "children": [
+                                        "None",
+                                        {
+                                            "value": 1,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        }
+                                    ],
+                                    "followers": 1
+                                }
+                            ],
+                            "followers": 1
+                        }
+                    ],
+                    "followers": 2
+                }
+            ],
+            "followers": 5
+        },
+        {
+            "value": 1,
+            "children": [
+                {
+                    "value": 0,
+                    "children": [
+                        {
+                            "value": 0,
+                            "children": [
+                                {
+                                    "value": 0,
+                                    "children": [
+                                        {
+                                            "value": 0,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        },
+                                        "None"
+                                    ],
+                                    "followers": 1
+                                },
+                                "None"
+                            ],
+                            "followers": 1
+                        },
+                        {
+                            "value": 1,
+                            "children": [
+                                {
+                                    "value": 0,
+                                    "children": [
+                                        "None",
+                                        {
+                                            "value": 1,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        }
+                                    ],
+                                    "followers": 1
+                                },
+                                {
+                                    "value": 1,
+                                    "children": [
+                                        {
+                                            "value": 0,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        },
+                                        {
+                                            "value": 1,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        }
+                                    ],
+                                    "followers": 2
+                                }
+                            ],
+                            "followers": 3
+                        }
+                    ],
+                    "followers": 4
+                },
+                {
+                    "value": 1,
+                    "children": [
+                        {
+                            "value": 0,
+                            "children": [
+                                {
+                                    "value": 0,
+                                    "children": [
+                                        "None",
+                                        {
+                                            "value": 1,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        }
+                                    ],
+                                    "followers": 1
+                                },
+                                "None"
+                            ],
+                            "followers": 1
+                        },
+                        {
+                            "value": 1,
+                            "children": [
+                                {
+                                    "value": 0,
+                                    "children": [
+                                        {
+                                            "value": 0,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        },
+                                        "None"
+                                    ],
+                                    "followers": 1
+                                },
+                                {
+                                    "value": 1,
+                                    "children": [
+                                        {
+                                            "value": 0,
+                                            "children": [
+                                                "None",
+                                                "None"
+                                            ],
+                                            "followers": 0
+                                        },
+                                        "None"
+                                    ],
+                                    "followers": 1
+                                }
+                            ],
+                            "followers": 2
+                        }
+                    ],
+                    "followers": 3
+                }
+            ],
+            "followers": 7
+        }
+    ],
+    "followers": 12
+}
